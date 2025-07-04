@@ -1,0 +1,5 @@
+git add .
+git commit -m "modification"
+git branch -M main
+git remote add origin https://github.com/Tsiory118/Domokit_App.git
+git push -u origin main
